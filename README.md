@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 Gallery of the Nine Rasas
 
 Welcome to the **Gallery of the Nine Rasas** – a visually engaging, culturally rich web gallery that celebrates the nine classical Rasas of Indian aesthetics. Dive into a world of emotions, from love and beauty to peace and tranquility.
@@ -84,3 +85,7 @@ For questions, feedback, or collaboration, please reach out at [ppraneetkartik02
 ---
 
 Enjoy the artistic journey through the Nine Rasas and let your emotions be inspired! ✨
+=======
+# navarasa-web-page
+Navarasa highlighting their significance in ancient Indian art, culture, and traditions.
+>>>>>>> parent of ad87ebb (Added README)
