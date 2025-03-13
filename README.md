@@ -40,7 +40,7 @@ To run the gallery locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/praneetakhaury/navarasa-web-page.git
    ```
 2. **Open the project:**
    - Simply open the `index.html` file in your web browser.
