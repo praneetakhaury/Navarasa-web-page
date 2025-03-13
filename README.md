@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🎨 Gallery of the Nine Rasas
 
 Welcome to the **Gallery of the Nine Rasas** – a visually engaging, culturally rich web gallery that celebrates the nine classical Rasas of Indian aesthetics. Dive into a world of emotions, from love and beauty to peace and tranquility.
